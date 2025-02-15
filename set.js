@@ -1,16 +1,16 @@
 const dotenv = require('dotenv');
 dotenv.config();
 module.exports = {
-  PREFIXE: process.env.PREFIXE || "™",
-  NOM_OWNER: process.env.NOM_OWNER || "VINX",
-  NUMERO_OWNER: process.env.NUMERO_OWNER || "243858236454",
-  MODE: process.env.MODE || "public",
-  MENU: process.env.MENU || "https://files.catbox.moe/5j0n3s.jpg",
-  SESSION_ID: process.env.SESSION_ID || "Ovl-MD_ZEEfmFwr_SESSION-ID",
-  LEVEL_UP: process.env.LEVEL_UP || "non",
-  STICKER_PACK_NAME: process.env.STICKER_PACK_NAME || "Wa-sticker",
-  STICKER_AUTHOR_NAME: process.env.STICKER_AUTHOR_NAME || "OVL-MD",
-  DATABASE: process.env.DATABASE || "postgresql://postgres.qnjvgxwyncnsbpfxwrbq:ovlmdmdpasse@aws-0-eu-central-1.pooler.supabase.com:6543/postgres",
-  ANTIDELETE: process.env.ANTIDELETE || "non",
-  RENDER_API_KEY: process.env.RENDER_API_KEY,
+  PREFIXE:™
+  NOM_OWNER:VINX
+  NUMERO_OWNER:24385823645
+  MODE:public
+  MENU:https://files.catbox.moe/5j0n3s.jpg
+  SESSION_ID:Ovl-MD_ZEEfmFwr_SESSION-ID
+  LEVEL_UP:non
+  STICKER_PACK_NAME:Wa-sticker
+  STICKER_AUTHOR_NAME:꧁𓃥𝐋𝐎𝐈𝐃𓆪𝐅𝐎𝐑𝐆𝐄𝐑𓃥꧂ 𝐢 𝐚𝐦 𝐭𝐡𝐞 𝐛𝐞𝐬𝐭 𝐬𝐩𝐲 𝐭𝐡𝐚𝐭 𝐞𝐱𝐢𝐬𝐭𝐬 𝐢𝐧 𝐭𝐡𝐢𝐬 𝐰𝐨𝐫𝐥𝐝 𝐦𝐲 𝐧𝐚𝐦𝐞 𝐢𝐬 𝗧𝗪𝗜𝗟𝗜𝗚𝗛𝗧
+  DATABASE:postgresql://postgres.qnjvgxwyncnsbpfxwrbq:ovlmdmdpasse@aws-0-eu-central-1.pooler.supabase.com:6543/postgres
+  ANTIDELETE:non
+  RENDER_API_KEY:RENDER_API_KEY,
 };
